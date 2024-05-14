@@ -43,7 +43,7 @@ Los participantes destacados tendrán la oportunidad de recibir premios y recono
 
 ### Contacto 📧
 
-Si tienes alguna pregunta o necesitas asistencia, no dudes en contactarnos en [contacto@alurageek.com](mailto:gabrielcabralesperez@gmail.com) o a través de nuestras redes sociales.
+Si tienes alguna pregunta o necesitas asistencia, no dudes en contactarnos en [gabrielcabralesperez@gmail.com](mailto:gabrielcabralesperez@gmail.com) o a través de nuestras redes sociales.
 
 ¡Esperamos contar con tu participación en el Challenge AluraGeek y ver tus habilidades brillar! ¡Buena suerte y feliz codificación! 🚀
 
