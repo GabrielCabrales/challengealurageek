@@ -1,0 +1,120 @@
+.container__productos {
+    height: auto;
+    min-height: 40vh;
+}
+.mostrar__producto {
+    display: flex;
+    width: 95%;
+    min-width: 200px;
+    justify-content: space-around;
+    margin: .8rem auto;
+    flex-wrap: wrap;
+    gap: .5rem;
+}
+.producto__target {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: .5rem;
+    width: 250px;
+    height: 280px;
+    border-radius: 5px;
+    background: #ffaf0030;
+    border: 2px solid #ff950090;
+    overflow: hidden;
+    user-select: none;
+}
+.producto__target__img {
+    background: white;
+    width: 250px;
+    height: 185px;
+    text-align: center;
+    overflow: hidden;
+    object-fit: contain;
+}
+.producto__target__name {
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-align: center;
+    color: var(--color--titles);
+}
+.producto__target__precio {
+    font-size: 1rem;
+    font-weight: bold;
+    color: var(--color--text);
+}
+.producto__target__editar {
+    color: var(--color-blue);
+    font-weight: bold;
+}
+.producto__target__ver {
+    color: var(--color-morado);
+    font-weight: bold;
+}
+.producto__target__eliminar {
+    color: var(--color-red);
+    font-weight: bold;
+    cursor: pointer;
+}
+.producto__target__category{
+    color: transparent;
+    pointer-events: none;
+    user-select: none;
+}
+.producto__target__buttonsAdmin {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.category_items{
+    background: transparent;
+    margin: auto;
+}
+.category__position{
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+.category__head{
+    /*width: 260px;*/
+    margin: auto;
+    padding: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;
+}
+.category__title { 
+    width: auto;
+    text-align: center;
+    color: var(--color--titles);
+    padding: 0 0 .5rem;
+    font-size: 2rem;
+}
+.category__height{
+    max-height: 290px;
+    overflow: hidden;
+}
+.btn_category__height{
+    width: 90px;
+    margin-left: 10px ;
+    background: var(--color-blue);
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    height: 2rem;
+    border-radius: 3px;
+}
+.btn__ocultar{
+    display: none;
+}
+.filtro {
+    display: none !important;
+}
+@media screen and (max-width: 450px) {
+    .category__head {
+        justify-content: center;
+    }   
+}
