@@ -1,0 +1,148 @@
+{
+  "productos": [
+    {
+      "nombre": "Inuyasha",
+      "categoria": "Funko",
+      "precio": "55.86",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_654497-MCO42874606392_072020-O.webp",
+      "id": "421945eb-931b-44c9-bd04-6a13c44b0995"
+    },
+    {
+      "nombre": "Inuyasha Evil",
+      "categoria": "Funko",
+      "precio": "55.66",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_663889-MLM43643022066_102020-O.webp",
+      "id": "74dc8492-8bac-484f-9677-f5588248d05c"
+    },
+    {
+      "nombre": "Batman",
+      "categoria": "Funko",
+      "precio": "65.75",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://images-americanas.b2w.io/produtos/1203980731/imagens/funko-pop-dc-batman-80-anos-289/1203980731_1_large.jpg",
+      "id": "8fead176-4ddb-408c-bb17-1e4cacbb0c92"
+    },
+    {
+      "nombre": "Charmander",
+      "categoria": "Funko",
+      "precio": "32.54",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_114468096_1016599_1?wid=800&hei=800&qlt=70",
+      "id": "e13aa446-ae34-4ec1-a281-e2d5ce42ebb2"
+    },
+    {
+      "nombre": "Dr. Strange",
+      "categoria": "Funko",
+      "precio": "98.33",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_880466-MLB48329448265_112021-O.webp",
+      "id": "d5c53b89-70cc-4890-ab92-2075c9051685"
+    },
+    {
+      "nombre": "Minecraft",
+      "categoria": "Juegos",
+      "precio": "105.55",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://t.ctcdn.com.br/QeJlxSm6qkivX-Sro9SP3Pyen_Q=/1400x788/smart/i575891.jpeg",
+      "id": "789450e5-2775-496d-af9a-2e78414aeb1c"
+    },
+    {
+      "nombre": "GTA - 5",
+      "categoria": "Juegos",
+      "precio": "130.65",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://i.blogs.es/dfbccc/trucosgtavps4/1366_2000.jpg",
+      "id": "2bd92a27-45a5-4b52-9c08-eda2bc6d043d"
+    },
+    {
+      "nombre": "PS5",
+      "categoria": "Juegos",
+      "precio": "3852.66",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/p/l/playstation_5.jpg",
+      "id": "4e41c540-c23c-45c2-b6c4-260cf59a83d6"
+    },
+    {
+      "nombre": "Xbox",
+      "categoria": "Juegos",
+      "precio": "4100.10",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://realplaza.vtexassets.com/arquivos/ids/31262011/image-a5739a4ba10642fdb7d313139b361e2b.jpg?v=638071469905470000",
+      "id": "c3d6aef0-008c-4b2b-8ae0-7e7be21d1897"
+    },
+    {
+      "nombre": "Superman",
+      "categoria": "Comics",
+      "precio": "12.6",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://cdn.oldskull.net/wp-content/uploads/2014/03/infinite-crisis-superman.jpg",
+      "id": "a12fb084-e841-45b6-814e-8f95443cd271"
+    },
+    {
+      "nombre": "Audifonos",
+      "categoria": "Accesorios",
+      "precio": "150.23",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://www.tradeinn.com/f/13818/138185335_3/konix-auriculares-gaming-geek-girl-crystal.jpg",
+      "id": "871c4564-5596-4eba-ab18-19d335bc88ea"
+    },
+    {
+      "nombre": "Audifonos",
+      "categoria": "Accesorios",
+      "precio": "54.89",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_768509-MLV51457864815_092022-V.jpg",
+      "id": "3260f332-2e26-48c7-b0fd-d9dc4efd8f78"
+    },
+    {
+      "nombre": "Steve - Minecraft",
+      "categoria": "Funko",
+      "precio": "78.65",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://xtremeplay.pe/wp-content/uploads/2020/06/POP-GAMES-MINECRAFT-STEVE.jpg",
+      "id": "dff0a92c-9d07-4338-8487-1bff7bcc99e0"
+    },
+    {
+      "nombre": "Ale - Minecraft",
+      "categoria": "Funko",
+      "precio": "78.65",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://i.pinimg.com/originals/e6/f6/9e/e6f69ea8e2ccba1e43b2090df3a8ba91.png",
+      "id": "74ee2b68-671f-406e-9141-2d086ccc4986"
+    },
+    {
+      "nombre": "Creeper - Minecraft",
+      "categoria": "Funko",
+      "precio": "65.34",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61eOXgmCqJL._AC_SL1500_.jpg",
+      "id": "6487d3b6-e8f1-4881-861f-13a7362c9c6b"
+    },
+    {
+      "nombre": "Llaveros - Minecraft",
+      "categoria": "Gadgets",
+      "precio": "30.55",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://m.media-amazon.com/images/I/51wjOvpPw4L._AC_.jpg",
+      "id": "fa1df181-0060-4d5e-9447-e970a8ce43ca"
+    },
+    {
+      "nombre": "Mochila - Pikachu",
+      "categoria": "Accesorios",
+      "precio": "105.63",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F140%2FMARKETPLACE%20INTERNACIONAL%2F51OZpwtF7xL_194756731463_50.jpeg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=385f47049425e2df67a1bbee7fd7fc5d",
+      "id": "28e35512-3523-4397-beb5-f2fbf5c60e65"
+    },
+    {
+      "nombre": "Pikachu - Pokemon",
+      "categoria": "Funko",
+      "precio": "78.36",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://promart.vteximg.com.br/arquivos/ids/6657501-1000-1000/image-b2a8d71dc721461db5959b2181c064f8.jpg?v=638059751633630000",
+      "id": "4d1f9dfe-8b1f-4cea-aa90-6c31cdec8d92"
+    }
+  ]
+}
