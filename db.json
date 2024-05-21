@@ -81,6 +81,14 @@
       "id": "d5c53b89-70cc-4890-ab92-2075c9051685"
     },
     {
+      "nombre": "Pikachu - Pokemon",
+      "categoria": "Funko",
+      "precio": "78.36",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://promart.vteximg.com.br/arquivos/ids/6657501-1000-1000/image-b2a8d71dc721461db5959b2181c064f8.jpg?v=638059751633630000",
+      "id": "4d1f9dfe-8b1f-4cea-aa90-6c31cdec8d92"
+    },
+    {
       "nombre": "Minecraft",
       "categoria": "Juegos",
       "precio": "105.55",
@@ -169,7 +177,7 @@
       "id": "28e35512-3523-4397-beb5-f2fbf5c60e65"
     },
     {
-      "nombre": "Llaveros - Minecraft",
+      "nombre": "Lego Minecraft Llavero Steve",
       "categoria": "Gadgets",
       "precio": "59.900",
       "descripcion": "El llavero Steve de LEGO Minecraft (854243) es un encantador accesorio que combina la popularidad de los juegos Minecraft con la versatilidad y la diversión de los bloques LEGO. Este llavero presenta una figura miniatura de Steve, uno de los personajes principales del juego, construido con bloques LEGO. Con detalles precisos y colores fieles al juego, es una representación auténtica y encantadora del personaje. Además de servir como un accesorio práctico para tus llaves, mochilas o bolsos, también es una excelente adición a tu colección de LEGO o Minecraft. Este llavero es perfecto para los fanáticos de Minecraft de todas las edades que desean llevar un poco del mundo Minecraft a todas partes con ellos.",
@@ -177,12 +185,12 @@
       "id": "fa1df181-0060-4d5e-9447-e970a8ce43ca"
     },
     {
-      "nombre": "Pikachu - Pokemon",
-      "categoria": "Funko",
-      "precio": "78.36",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
-      "imgUrl": "https://promart.vteximg.com.br/arquivos/ids/6657501-1000-1000/image-b2a8d71dc721461db5959b2181c064f8.jpg?v=638059751633630000",
-      "id": "4d1f9dfe-8b1f-4cea-aa90-6c31cdec8d92"
+      "nombre": "Lego Piglin Minecraft Llavero",
+      "categoria": "Gadgets",
+      "precio": "59.900",
+      "descripcion": "El llavero Piglin de LEGO Minecraft (854244) es una adorable pieza que captura la esencia del juego Minecraft de una manera divertida y portátil. Este llavero presenta una figura miniatura del Piglin, una de las criaturas del juego, construida con bloques LEGO. Con detalles auténticos y colores vibrantes que reflejan fielmente el diseño del Piglin en Minecraft, este llavero es una adición encantadora a cualquier colección de llaveros o de LEGO. Además de ser un accesorio práctico para tus llaves, mochilas o bolsos, también es un gran regalo para cualquier fanático de Minecraft que aprecie los elementos de construcción y creatividad de LEGO.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_834812-MCO71717264644_092023-O.webp",
+      "id": "fa1df181-0060-4d5e-9447-e970a8ce43ca"
     }
   ]
 }
