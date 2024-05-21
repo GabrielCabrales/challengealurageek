@@ -35,10 +35,34 @@
     {
       "nombre": "Batman",
       "categoria": "Funko",
-      "precio": "75.000 COP",
+      "precio": "75.000",
       "descripcion": "El Funko Pop de Batman es una representación icónica y popular del legendario superhéroe de DC Comics. Este Funko Pop captura la esencia única de Batman con su distintivo traje negro, capa y máscara.",
       "imgUrl": "https://toysmart.co/cdn/shop/products/03076_1dac22ee-e7c0-4e0a-8365-240a7bddd029_720x.jpg?v=1663601382",
       "id": "8fead176-4ddb-408c-bb17-1e4cacbb0c92"
+    },
+    {
+      "nombre": "Steve - Minecraft",
+      "categoria": "Funko",
+      "precio": "78.65",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://xtremeplay.pe/wp-content/uploads/2020/06/POP-GAMES-MINECRAFT-STEVE.jpg",
+      "id": "dff0a92c-9d07-4338-8487-1bff7bcc99e0"
+    },
+    {
+      "nombre": "Ale - Minecraft",
+      "categoria": "Funko",
+      "precio": "78.65",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://i.pinimg.com/originals/e6/f6/9e/e6f69ea8e2ccba1e43b2090df3a8ba91.png",
+      "id": "74ee2b68-671f-406e-9141-2d086ccc4986"
+    },
+    {
+      "nombre": "Creeper - Minecraft",
+      "categoria": "Funko",
+      "precio": "65.34",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://www.mirax.cl/productos/n210001a220000/n213001a214000/n213301a213400/g213393.jpg",
+      "id": "6487d3b6-e8f1-4881-861f-13a7362c9c6b"
     },
     {
       "nombre": "Charmander",
@@ -68,89 +92,89 @@
       "nombre": "GTA - 5",
       "categoria": "Juegos",
       "precio": "130.65",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
-      "imgUrl": "https://i.blogs.es/dfbccc/trucosgtavps4/1366_2000.jpg",
+      "descripcion": "Grand Theft Auto V es un videojuego de acción y aventura desarrollado por Rockstar North y publicado por Rockstar Games. Ambientado en el vasto y detallado mundo ficticio de Los Santos, que está inspirado en Los Ángeles, el juego sigue las vidas de tres protagonistas: Michael De Santa, un ex ladrón de bancos que busca una vida más tranquila; Franklin Clinton, un joven pandillero que anhela salir de los barrios bajos; y Trevor Philips, un criminal violento y desquiciado. A lo largo de la narrativa, los jugadores pueden alternar entre estos personajes, participando en una serie de misiones que abarcan desde asaltos a bancos hasta tareas cotidianas. El mundo abierto de GTA V permite a los jugadores explorar libremente, participar en actividades diversas como carreras, deportes y negocios ilegales, además de interactuar con un elenco de personajes secundarios. Con una mezcla de historia profunda, jugabilidad dinámica y un entorno interactivo, GTA V se ha consolidado como uno de los juegos más influyentes y exitosos de su generación.",
+      "imgUrl": "https://products.eneba.games/resized-products/s29Db6ZBVLneuD0t66qnYRamvGDP3p8chLz-3IomxcU_350x200_1x-0.jpeg",
       "id": "2bd92a27-45a5-4b52-9c08-eda2bc6d043d"
+    },
+    {
+      "nombre": "PS5 Slim",
+      "categoria": "Juegos",
+      "precio": "1.970.261",
+      "descripcion": "La PlayStation 5 Slim (PS5) es la consola de videojuegos de nueva generación desarrollada por Sony Interactive Entertainment. Lanzada en noviembre de 2020, la PS5 se destaca por su potente hardware y capacidades avanzadas, diseñadas para ofrecer una experiencia de juego inmersiva y de alta calidad. Está equipada con una CPU AMD Ryzen de tercera generación, una GPU basada en la arquitectura RDNA 2 de AMD, y un SSD ultrarrápido que permite tiempos de carga casi instantáneos y un rendimiento general fluido.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_970771-MLA73347645092_122023-F.webp",
+      "id": "4e41c540-c23c-45c2-b6c4-260cf59a83d6"
     },
     {
       "nombre": "PS5",
       "categoria": "Juegos",
-      "precio": "3852.66",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
-      "imgUrl": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/p/l/playstation_5.jpg",
-      "id": "4e41c540-c23c-45c2-b6c4-260cf59a83d6"
+      "precio": "2.196.684",
+      "descripcion": "La PlayStation 5 (PS5) es la consola de videojuegos de nueva generación desarrollada por Sony Interactive Entertainment. Lanzada en noviembre de 2020, la PS5 se destaca por su potente hardware y capacidades avanzadas, diseñadas para ofrecer una experiencia de juego inmersiva y de alta calidad. Está equipada con una CPU AMD Ryzen de tercera generación, una GPU basada en la arquitectura RDNA 2 de AMD, y un SSD ultrarrápido que permite tiempos de carga casi instantáneos y un rendimiento general fluido.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_955000-MLU75239551715_032024-F.webp",
+      "id": "4e41c540-c23c-45c2-b6c4-260cf59a83h6"
     },
     {
-      "nombre": "Xbox",
+      "nombre": "Xbox Series X",
       "categoria": "Juegos",
-      "precio": "4100.10",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
-      "imgUrl": "https://realplaza.vtexassets.com/arquivos/ids/31262011/image-a5739a4ba10642fdb7d313139b361e2b.jpg?v=638071469905470000",
+      "precio": "2.036.515",
+      "descripcion": "La Xbox Series X es la consola de nueva generación más potente de Microsoft, lanzada en noviembre de 2020. Equipada con una GPU de 12 teraflops y una CPU personalizada basada en la arquitectura Zen 2 de AMD, ofrece un rendimiento excepcional con soporte para juegos en resolución 4K a hasta 120 fps. Su unidad de almacenamiento SSD de 1 TB permite tiempos de carga extremadamente rápidos y una experiencia de juego fluida. Además, la consola incluye características avanzadas como el trazado de rayos en tiempo real y la arquitectura Xbox Velocity, que optimiza la velocidad y el rendimiento general del sistema. La Xbox Series X también es retrocompatible con miles de juegos de generaciones anteriores y se integra con el servicio Xbox Game Pass, proporcionando acceso a una vasta biblioteca de juegos.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_942133-MLA74651936102_022024-F.webp",
       "id": "c3d6aef0-008c-4b2b-8ae0-7e7be21d1897"
     },
     {
-      "nombre": "Superman",
+      "nombre": "Xbox Series S",
+      "categoria": "Juegos",
+      "precio": "1.266.906",
+      "descripcion": "La Xbox Series S es la consola de nueva generación más asequible de Microsoft, lanzada junto a la Xbox Series X en noviembre de 2020. Diseñada para jugar a una resolución de 1440p y hasta 120 fps, la Series S cuenta con una GPU menos potente que la Series X, pero sigue ofreciendo un rendimiento impresionante para su tamaño compacto. Su unidad de almacenamiento SSD de 512 GB permite tiempos de carga rápidos y una experiencia de juego ágil. Aunque no tiene lector de discos, la Series S es completamente digital, lo que la convierte en una opción ideal para quienes prefieren descargar sus juegos. Al igual que la Series X, esta consola también es retrocompatible con juegos de generaciones anteriores y es compatible con Xbox Game Pass, ofreciendo una amplia selección de juegos y contenido exclusivo.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_792211-MLU72927054901_112023-F.webp",
+      "id": "c3d6aef0-008c-4b2b-8ae0-7e7be21d18a57"
+    },
+    {
+      "nombre": "Robin, Hijo De Batman No. 1",
       "categoria": "Comics",
-      "precio": "12.6",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
-      "imgUrl": "https://cdn.oldskull.net/wp-content/uploads/2014/03/infinite-crisis-superman.jpg",
+      "precio": "79.000",
+      "descripcion": "Robin, Hijo de Batman No 1 es el inicio de una serie de cómics centrada en Damian Wayne, el hijo de Batman y Talia al Ghul. En esta historia, Damian asume plenamente su identidad como Robin y se embarca en una misión para redimir su oscuro pasado. Decidido a corregir los errores que cometió durante su formación en la Liga de Asesinos, Damian viaja por el mundo para deshacer el mal que causó y buscar su propio camino como héroe. Con un enfoque en su desarrollo personal y su lucha interna entre la herencia de su madre y el legado de su padre, este cómic explora la complejidad del joven héroe y su crecimiento en el universo de Batman.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_949883-MCO76178850644_052024-O.webp",
       "id": "a12fb084-e841-45b6-814e-8f95443cd271"
     },
     {
-      "nombre": "Audifonos",
+      "nombre": "Superman:contra el mundo",
+      "categoria": "Comics",
+      "precio": "95.000",
+      "descripcion": "Superman Contra el Mundo es una emocionante historia de cómics en la que el Hombre de Acero se enfrenta a una amenaza global que pone en peligro la seguridad de toda la humanidad. En esta narrativa, Superman no solo debe luchar contra poderosos enemigos y fuerzas oscuras que intentan dominar el mundo, sino también enfrentar desafíos personales y dilemas morales que cuestionan sus principios y su capacidad para proteger a la Tierra. Con impresionantes ilustraciones y una trama llena de acción, intriga y heroísmo, este cómic captura la esencia de Superman como el defensor definitivo de la justicia y el bien.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_863794-MCO75594794679_042024-O.webp",
+      "id": "a12fb084-e841-45b6-814e-8f95443cd272"
+    },
+    {
+      "nombre": "Audífonos inalámbricos Sleve EVO black",
       "categoria": "Accesorios",
-      "precio": "150.23",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
-      "imgUrl": "https://www.tradeinn.com/f/13818/138185335_3/konix-auriculares-gaming-geek-girl-crystal.jpg",
+      "precio": "144.900",
+      "descripcion": "Los audífonos inalámbricos Sleve EVO Black son una opción elegante y moderna para disfrutar de un sonido de alta calidad sin cables. Con un diseño ergonómico y ligero, estos audífonos ofrecen comodidad durante todo el día. Cuentan con tecnología avanzada de cancelación de ruido activa, proporcionando una experiencia auditiva inmersiva y clara. Su batería de larga duración permite horas de reproducción continua, y la conectividad Bluetooth asegura una conexión estable y rápida con dispositivos compatibles. Los controles táctiles intuitivos facilitan el manejo de la música y las llamadas, haciendo de los Sleve EVO Black una excelente elección para el uso diario.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_832268-MLU72931771705_112023-F.webp",
       "id": "871c4564-5596-4eba-ab18-19d335bc88ea"
     },
     {
       "nombre": "Audifonos",
       "categoria": "Accesorios",
-      "precio": "54.89",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
-      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_768509-MLV51457864815_092022-V.jpg",
+      "precio": "360.000",
+      "descripcion": "Los audífonos Pioneer DJ HDJ-CUE1 en color negro son una herramienta imprescindible para los DJ y amantes de la música. Con un diseño robusto y cómodo, estos auriculares están diseñados para resistir el uso intensivo en entornos de DJ profesionales. Ofrecen una calidad de sonido excepcional, con controladores dinámicos de alta calidad que proporcionan una reproducción clara y precisa de todas las frecuencias. Su construcción plegable y giratoria facilita el transporte y el almacenamiento, mientras que las almohadillas suaves y acolchadas garantizan una comodidad duradera durante largas sesiones de mezcla. Además, su cable desmontable y reemplazable ofrece versatilidad y conveniencia para adaptarse a diferentes necesidades de uso. Los HDJ-CUE1 son una opción confiable y asequible para los DJ en cualquier nivel de experiencia.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_777241-MLA53068605448_122022-F.webp",
       "id": "3260f332-2e26-48c7-b0fd-d9dc4efd8f78"
-    },
-    {
-      "nombre": "Steve - Minecraft",
-      "categoria": "Funko",
-      "precio": "78.65",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
-      "imgUrl": "https://xtremeplay.pe/wp-content/uploads/2020/06/POP-GAMES-MINECRAFT-STEVE.jpg",
-      "id": "dff0a92c-9d07-4338-8487-1bff7bcc99e0"
-    },
-    {
-      "nombre": "Ale - Minecraft",
-      "categoria": "Funko",
-      "precio": "78.65",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
-      "imgUrl": "https://i.pinimg.com/originals/e6/f6/9e/e6f69ea8e2ccba1e43b2090df3a8ba91.png",
-      "id": "74ee2b68-671f-406e-9141-2d086ccc4986"
-    },
-    {
-      "nombre": "Creeper - Minecraft",
-      "categoria": "Funko",
-      "precio": "65.34",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
-      "imgUrl": "https://www.mirax.cl/productos/n210001a220000/n213001a214000/n213301a213400/g213393.jpg",
-      "id": "6487d3b6-e8f1-4881-861f-13a7362c9c6b"
-    },
-    {
-      "nombre": "Llaveros - Minecraft",
-      "categoria": "Gadgets",
-      "precio": "30.55",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
-      "imgUrl": "https://m.media-amazon.com/images/I/51wjOvpPw4L._AC_.jpg",
-      "id": "fa1df181-0060-4d5e-9447-e970a8ce43ca"
     },
     {
       "nombre": "Mochila - Pikachu",
       "categoria": "Accesorios",
-      "precio": "105.63",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "precio": "100.456",
+      "descripcion": "La mochila de Pikachu es un accesorio adorable y funcional que encantará a los aficionados de Pokémon de todas las edades. Con un diseño inspirado en el icónico Pokémon amarillo, esta mochila presenta la forma y los colores característicos de Pikachu, incluyendo sus orejas puntiagudas y mejillas rojas. Fabricada con materiales de alta calidad, ofrece durabilidad y resistencia para el uso diario. Su tamaño compacto la hace perfecta para llevar tus pertenencias esenciales, ya sea a la escuela, al trabajo o en tus aventuras cotidianas. Con compartimentos convenientes y correas ajustables, la mochila de Pikachu combina estilo y funcionalidad para satisfacer las necesidades de cualquier entrenador Pokémon en movimiento.",
       "imgUrl": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F140%2FMARKETPLACE%20INTERNACIONAL%2F51OZpwtF7xL_194756731463_50.jpeg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=385f47049425e2df67a1bbee7fd7fc5d",
       "id": "28e35512-3523-4397-beb5-f2fbf5c60e65"
+    },
+    {
+      "nombre": "Llaveros - Minecraft",
+      "categoria": "Gadgets",
+      "precio": "59.900",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_989242-MLU74111599463_012024-F.webp",
+      "id": "fa1df181-0060-4d5e-9447-e970a8ce43ca"
     },
     {
       "nombre": "Pikachu - Pokemon",
