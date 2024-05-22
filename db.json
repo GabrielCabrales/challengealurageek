@@ -41,54 +41,6 @@
       "id": "8fead176-4ddb-408c-bb17-1e4cacbb0c92"
     },
     {
-      "nombre": "Steve - Minecraft",
-      "categoria": "Funko",
-      "precio": "78.65",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
-      "imgUrl": "https://xtremeplay.pe/wp-content/uploads/2020/06/POP-GAMES-MINECRAFT-STEVE.jpg",
-      "id": "dff0a92c-9d07-4338-8487-1bff7bcc99e0"
-    },
-    {
-      "nombre": "Ale - Minecraft",
-      "categoria": "Funko",
-      "precio": "78.65",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
-      "imgUrl": "https://i.pinimg.com/originals/e6/f6/9e/e6f69ea8e2ccba1e43b2090df3a8ba91.png",
-      "id": "74ee2b68-671f-406e-9141-2d086ccc4986"
-    },
-    {
-      "nombre": "Creeper - Minecraft",
-      "categoria": "Funko",
-      "precio": "65.34",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
-      "imgUrl": "https://www.mirax.cl/productos/n210001a220000/n213001a214000/n213301a213400/g213393.jpg",
-      "id": "6487d3b6-e8f1-4881-861f-13a7362c9c6b"
-    },
-    {
-      "nombre": "Charmander",
-      "categoria": "Funko",
-      "precio": "32.54",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
-      "imgUrl": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_114468096_1016599_1?wid=800&hei=800&qlt=70",
-      "id": "e13aa446-ae34-4ec1-a281-e2d5ce42ebb2"
-    },
-    {
-      "nombre": "Dr. Strange",
-      "categoria": "Funko",
-      "precio": "98.33",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
-      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_880466-MLB48329448265_112021-O.webp",
-      "id": "d5c53b89-70cc-4890-ab92-2075c9051685"
-    },
-    {
-      "nombre": "Pikachu - Pokemon",
-      "categoria": "Funko",
-      "precio": "78.36",
-      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
-      "imgUrl": "https://promart.vteximg.com.br/arquivos/ids/6657501-1000-1000/image-b2a8d71dc721461db5959b2181c064f8.jpg?v=638059751633630000",
-      "id": "4d1f9dfe-8b1f-4cea-aa90-6c31cdec8d92"
-    },
-    {
       "nombre": "Minecraft",
       "categoria": "Juegos",
       "precio": "105.55",
