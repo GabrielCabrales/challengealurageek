@@ -1,0 +1,84 @@
+{
+  "productos2": [
+    {
+      "nombre": "Inuyasha",
+      "categoria": "Funko",
+      "precio": "89.910",
+      "descripcion": "El Funko Pop de Inuyasha en su forma normal es una representación encantadora y reconocible del personaje principal del anime y manga. Este Funko Pop captura la esencia única de Inuyasha con su diseño característico y detalles icónicos.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_654497-MCO42874606392_072020-O.webp",
+      "id": "421945eb-931b-44c9-bd04-6a13c44b0995"
+    },
+    {
+      "nombre": "Batman",
+      "categoria": "Funko",
+      "precio": "75.000",
+      "descripcion": "El Funko Pop de Batman es una representación icónica y popular del legendario superhéroe de DC Comics. Este Funko Pop captura la esencia única de Batman con su distintivo traje negro, capa y máscara.",
+      "imgUrl": "https://toysmart.co/cdn/shop/products/03076_1dac22ee-e7c0-4e0a-8365-240a7bddd029_720x.jpg?v=1663601382",
+      "id": "8fead176-4ddb-408c-bb17-1e4cacbb0c92"
+    },
+    {
+      "nombre": "Steve - Minecraft",
+      "categoria": "Funko",
+      "precio": "78.65",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://xtremeplay.pe/wp-content/uploads/2020/06/POP-GAMES-MINECRAFT-STEVE.jpg",
+      "id": "dff0a92c-9d07-4338-8487-1bff7bcc99e0"
+    },
+    {
+      "nombre": "Creeper - Minecraft",
+      "categoria": "Funko",
+      "precio": "65.34",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://www.mirax.cl/productos/n210001a220000/n213001a214000/n213301a213400/g213393.jpg",
+      "id": "6487d3b6-e8f1-4881-861f-13a7362c9c6b"
+    },
+    {
+      "nombre": "Charmander",
+      "categoria": "Funko",
+      "precio": "32.54",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_114468096_1016599_1?wid=800&hei=800&qlt=70",
+      "id": "e13aa446-ae34-4ec1-a281-e2d5ce42ebb2"
+    },
+    {
+      "nombre": "Minecraft",
+      "categoria": "Juegos",
+      "precio": "105.55",
+      "descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia necessitatibus id nemo quibusdam dolorem! Quae aspernatur culpa, quidem, eveniet sint vel ea dicta praesentium placeat facere, corrupti necessitatibus! Sapiente, eligendi.",
+      "imgUrl": "https://t.ctcdn.com.br/QeJlxSm6qkivX-Sro9SP3Pyen_Q=/1400x788/smart/i575891.jpeg",
+      "id": "789450e5-2775-496d-af9a-2e78414aeb1c"
+    },
+    {
+      "nombre": "GTA - 5",
+      "categoria": "Juegos",
+      "precio": "130.65",
+      "descripcion": "Grand Theft Auto V es un videojuego de acción y aventura desarrollado por Rockstar North y publicado por Rockstar Games. Ambientado en el vasto y detallado mundo ficticio de Los Santos, que está inspirado en Los Ángeles, el juego sigue las vidas de tres protagonistas Michael De Santa, un ex ladrón de bancos que busca una vida más tranquila, Franklin Clinton, un joven pandillero que anhela salir de los barrios bajos y Trevor Philips, un criminal violento y desquiciado.",
+      "imgUrl": "https://products.eneba.games/resized-products/s29Db6ZBVLneuD0t66qnYRamvGDP3p8chLz-3IomxcU_350x200_1x-0.jpeg",
+      "id": "2bd92a27-45a5-4b52-9c08-eda2bc6d043d"
+    },
+    {
+      "nombre": "PS5 Slim",
+      "categoria": "Juegos",
+      "precio": "1.970.261",
+      "descripcion": "La PlayStation 5 Slim (PS5) es la consola de videojuegos de nueva generación desarrollada por Sony Interactive Entertainment. Lanzada en noviembre de 2020, la PS5 se destaca por su potente hardware y capacidades avanzadas, diseñadas para ofrecer una experiencia de juego inmersiva y de alta calidad. Está equipada con una CPU AMD Ryzen de tercera generación, una GPU basada en la arquitectura RDNA 2 de AMD, y un SSD ultrarrápido que permite tiempos de carga casi instantáneos y un rendimiento general fluido.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_970771-MLA73347645092_122023-F.webp",
+      "id": "4e41c540-c23c-45c2-b6c4-260cf59a83d6"
+    },
+    {
+      "nombre": "Xbox Series S",
+      "categoria": "Juegos",
+      "precio": "1.266.906",
+      "descripcion": "La Xbox Series S es la consola de nueva generación más asequible de Microsoft, lanzada junto a la Xbox Series X en noviembre de 2020. Diseñada para jugar a una resolución de 1440p y hasta 120 fps, la Series S cuenta con una GPU menos potente que la Series X, pero sigue ofreciendo un rendimiento impresionante para su tamaño compacto. Su unidad de almacenamiento SSD de 512 GB permite tiempos de carga rápidos y una experiencia de juego ágil. Aunque no tiene lector de discos, la Series S es completamente digital, lo que la convierte en una opción ideal para quienes prefieren descargar sus juegos. Al igual que la Series X, esta consola también es retrocompatible con juegos de generaciones anteriores y es compatible con Xbox Game Pass, ofreciendo una amplia selección de juegos y contenido exclusivo.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_792211-MLU72927054901_112023-F.webp",
+      "id": "c3d6aef0-008c-4b2b-8ae0-7e7be21d18a57"
+    },
+    {
+      "nombre": "Audifonos",
+      "categoria": "Accesorios",
+      "precio": "360.000",
+      "descripcion": "Los audífonos Pioneer DJ HDJ-CUE1 en color negro son una herramienta imprescindible para los DJ y amantes de la música. Con un diseño robusto y cómodo, estos auriculares están diseñados para resistir el uso intensivo en entornos de DJ profesionales. Ofrecen una calidad de sonido excepcional, con controladores dinámicos de alta calidad que proporcionan una reproducción clara y precisa de todas las frecuencias. Su construcción plegable y giratoria facilita el transporte y el almacenamiento, mientras que las almohadillas suaves y acolchadas garantizan una comodidad duradera durante largas sesiones de mezcla. Además, su cable desmontable y reemplazable ofrece versatilidad y conveniencia para adaptarse a diferentes necesidades de uso. Los HDJ-CUE1 son una opción confiable y asequible para los DJ en cualquier nivel de experiencia.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_777241-MLA53068605448_122022-F.webp",
+      "id": "3260f332-2e26-48c7-b0fd-d9dc4efd8f78"
+    }
+  ]
+}
