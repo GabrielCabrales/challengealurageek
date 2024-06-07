@@ -524,6 +524,14 @@ main {
     .messaje__contac {
         font-size: 2rem;
     }
+    .radio-container {
+        bottom: 20px;
+        right: 20px;
+    }
+
+    .radio-container audio {
+        width: 400px;
+    }
         
 }
 @media screen and (max-width:475px) {
@@ -535,6 +543,25 @@ main {
     }
     .nombre_usuario{
         font-size: .8rem;
+    }
+    .radio-container {
+        bottom: 15px;
+        right: 15px;
+    }
+
+    .radio-container audio {
+        width: 300px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .radio-container {
+        bottom: 10px;
+        right: 10px;
+    }
+
+    .radio-container audio {
+        width: 200px;
     }
 }
 /*configuracion Darkmode*/
