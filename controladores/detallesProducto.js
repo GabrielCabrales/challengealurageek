@@ -46,7 +46,7 @@ const showInfoProducto = async () => {
                     <img class="item__producto__img" src="${imgUrl}">
                     <div class="item__producto__details">
                         <p class="item__producto__details__name" >${nombre}</p>
-                        <p class="item__producto__details__precio" >S/${precio}</p>
+                        <p class="item__producto__details__precio" >COP/${precio}</p>
                         <p class="item__producto__details__detalle" >${descripcion}</p>
                     </div>
                 </div>
