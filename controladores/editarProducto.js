@@ -102,10 +102,7 @@ $actualizarProducto.addEventListener('click', (evento) => {
         Swal.fire("El precio debe tener 2 números decimales")
         precio.focus();
     } else
-    //    if (precio.in("^[0-9]+[.,]{1,1}\[0]{2,2}$") != null) {
-    //    Swal.fire("El precio debe tener 2 números decimales")
-    //    $precio.focus();
-    //    } else
+
      if (descripcion == "") {
         Swal.fire("Campo descripción es obligatorio")
         $descripcion.focus();
