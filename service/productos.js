@@ -3,7 +3,7 @@ const fetchProductos1 = () =>
     .then(respuesta => respuesta.json());
 
 const fetchProductos2 = () => 
-    fetch("https://my-json-server.typicode.com/GabrielCabrales/produc/productos2")
+    fetch("https://my-json-server.typicode.com/GabrielCabrales/productosalura/productos")
     .then(respuesta => respuesta.json());
 
 const listaProductos = async () => {
