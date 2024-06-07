@@ -475,6 +475,23 @@ main {
     color: white;
 }
 
+/*reproductosstyle*/
+
+.radio-container {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 1000;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.radio-container audio {
+    width: 300px;
+}
+
 /*Configuración Alertas*/
 .alertTitle {
     color: #fd1f4a;
