@@ -1,8 +1,5 @@
-¡Por supuesto! Aquí está una versión del README con emoticones y figuras para hacerlo más llamativo:
 
----
-
-# Challenge AluraGeek - Desafío [Nombre del Reto] 🚀💻
+# Challenge AluraGeek - Desafío [AluraGeek] 🚀💻
 
 ¡Bienvenido al Challenge AluraGeek!
 
