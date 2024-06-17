@@ -475,7 +475,7 @@ main {
     color: white;
 }
 
-/*reproductosstyle*/
+/*reproductosstyle Derechos @Reservados Radio Olimpica Estereo*/
 .radio-container {
     position: fixed;
     bottom: 20px;
@@ -485,6 +485,7 @@ main {
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    display: none;
 }
 
 .radio-container audio {
