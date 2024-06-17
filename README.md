@@ -44,8 +44,8 @@ Los objetivos principales de este reto fueron:
 
 ## Capturas de Pantalla 🖼️
 
-![Captura de Pantalla 1](ruta/a/captura-1.png)
-![Captura de Pantalla 2](ruta/a/captura-2.png)
+![Captura de Pantalla 1](imagenes/prueba.png)
+![Captura de Pantalla 2](imagenes/prueba.png)
 
 ## Recursos Adicionales 📚
 
