@@ -30,15 +30,6 @@
         }
     });
     
-    document.getElementById("toggle-button").addEventListener("click", function() {
-         var radioContainer = document.getElementById("radio-container");
-         if (radioContainer.style.display === "none" || radioContainer.style.display === "") {
-            radioContainer.style.display = "block";
-         } else {
-                radioContainer.style.display = "none";
-            }
-        });
-    
     const observer = new IntersectionObserver(
         (entries) => {
             entries.forEach(entry => {
