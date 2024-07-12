@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Gabriel Cabrales">
+    <title>AluraGeek-Admin</title>
+    <link rel="shortcut icon" type="image/x-icon" href="../imagenes/logoalurageek.svg">
+    <link rel="stylesheet" href="../css/reset.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/styleAddProductos.css">
+    <script src="https://kit.fontawesome.com/5829234c9c.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container__header">
+            <a href="../index.html">
+                <div class="logo">
+                    <img src="../imagenes/logoalurageek.svg" alt="">
+                </div>
+            </a>
+            <div class="logo__name">Alura<span class="logo__name__white">Geek</span></div>
+            <div class="logo__name logo__name__responsive">A<span class="logo__name__white">G</span></div>
+
+            <input class="buscador" type="text" placeholder="Buscar">
+            <span class="nombre_usuario">@Admin</span>
+            <div class="buttons__header">
+                <button id="goBack" class="button__header__login">
+                    Back
+                </button>
+                <button alt="activar modo oscuro" class="button__darkmode active" id="button__darkmode">
+                    <div class="button__darkmode__night"></div>
+                    <div class="button__darkmode__day"></div>
+                </button>
+            </div>
+        </div>
+        <section id="container__navegacion" class="container__navegacion ">
+            <button id="button__navegacion" class="button__navegacion">
+                <i class="fa-solid fa-angles-right"></i>
+            </button>
+            <nav class="barra__navegacion">
+                <ul class="lista__navegacion">
+                    <li class="navegacion__items">
+                        <a class="navegacion__items__link" href="inicio_admin.html">
+                            <i class="fa-solid fa-house navegacion__items__icon"></i>
+                            <span class="navegacion__items__text">Inicio</span>
+                        </a>
+                    </li>
+                    <li class="navegacion__items">
+                        <a class="navegacion__items__link" href="inicio_admin.html">
+                            <i class="fa-solid fa-bag-shopping navegacion__items__icon"></i>
+                            <span class="navegacion__items__text">Productos</span>
+                        </a>
+                    </li>
+                    <li class="navegacion__items">
+                        <a class="navegacion__items__link" href="#about">
+                            <i class="fa-solid fa-users navegacion__items__icon"></i>
+                            <span class="navegacion__items__text">Sobre Nosotros</span>
+                        </a>
+                    </li>
+                    <li class="navegacion__items">
+                        <a id="button__contactar" class="navegacion__items__link" href="#contacto">
+                            <i class="fa-solid fa-comments navegacion__items__icon"></i>
+                            <span id="button__contactar" class="navegacion__items__text">Contáctenos</span>
+                        </a>
+                    </li>
+                    <li class="navegacion__items select">
+                        <a class="navegacion__items__link select" href="#settings">
+                            <i class="fa-solid fa-gears navegacion__items__icon"></i>
+                            <span class="navegacion__items__text">Settings</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </section>
+    </header>
+    <main>
+        <section class="container">
+            <div id="settings" class="container__inicio">
+                <p class="subtitle">Agregar Producto</p>
+                <form data-addProducto class="nuevo__producto">
+                    <div class="nuevo__producto__items">
+                        <p class="nuevo__producto__items__text">Categoría</p> 
+                        <select data-addProductoCategoria class="nuevo__producto__items__input" type="text">
+                            <option value="Funko">Funko</option>
+                            <option value="Juegos">Juegos</option>
+                            <option value="Accesorios">Accesorios</option>
+                            <option value="Gadgets">Gadgets</option>
+                            <option value="Comics">Comics</option>
+                            <option value="Personalizados">Personalizados</option>
+                            <option value="Otros">Otros</option>
+                        </select>    
+                    </div>
+                    <div class="nuevo__producto__items">
+                        <p class="nuevo__producto__items__text">Nombre Producto</p>
+                        <input data-addProductoNombre class="nuevo__producto__items__input" type="text">
+                    </div>
+                    <div class="nuevo__producto__items">
+                        <p class="nuevo__producto__items__text">Precio</p>
+                        <input data-addProductoPrecio class="nuevo__producto__items__input" type="number">
+                    </div>
+                    <div class="nuevo__producto__items">
+                        <p class="nuevo__producto__items__text">Descripción</p>
+                        <input data-addProductoDescripcion class="nuevo__producto__items__input" type="text">
+                    </div>
+                    <div class="nuevo__producto__items">
+                        <p class="nuevo__producto__items__text">URL Imagen</p>
+                        <input data-addProductoURLImg class="nuevo__producto__items__input" type="text">
+                    </div>
+                    <button class="addProductoSave" data-addProductoSave>
+                        Guardar
+                    </button>
+                </form>
+            </div>
+        </section>
+    </main>
+    <footer id="footer" class="footer">
+        <p class="footer__text">
+            Siguenos en:
+        </p>
+        <p class="footer__icons">
+            <i class="fa-brands fa-facebook footer__text__icon"></i>
+            <i class="fa-brands fa-instagram footer__text__icon"></i>
+        </p>
+        <p class="footer__text__desarrollador">
+            Desarrollado por: <a class="footer__text__desarrollador" href="https://gabrielcabrales.github.io/challengeportafolio-main/"
+                target="_blank">@gabrielcabralesperez</a>
+        </p>
+    </footer>
+    <script src="../js/script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="../js/backpag.js"></script>
+    <script type="module" src="../controladores/nuevoProducto.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uuid/8.3.2/uuid.min.js" integrity="sha512-UNM1njAgOFUa74Z0bADwAq8gbTcqZC8Ej4xPSzpnh0l6KMevwvkBvbldF9uR++qKeJ+MOZHRjV1HZjoRvjDfNQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</body>
+</html>

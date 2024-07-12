@@ -1,0 +1,212 @@
+body{
+    --color--text: var(--color-white);
+}
+/*cambio de background*/
+.container {
+    background: var(--background-login);
+    background-size: cover;
+    overflow: hidden;
+}
+.container__contacto {
+    background: none;
+}
+/**/
+.container__login{
+    height: calc(100vh - 70px);
+}
+.buttons__access{
+    display: flex;
+    width: 300px;
+    height: auto;
+    padding: 0em;
+    margin: 15px auto;
+    justify-content: space-around;
+}
+.button__access{
+    display: block;
+    background: #ffffff55;
+    backdrop-filter: blur(10px);
+    width: auto;
+    border-radius: 5px;
+    font-weight: bold;
+    color:var(--color--text);
+    font-size: 1em;
+    padding: .5em;
+}
+.access__admin{
+    font-size: 1.3em;
+    position: absolute;
+    top: 70px;
+    background: none;
+    right: 20px;
+    color: #00000041;
+}
+.button__access.input__mode{
+    border-bottom: 2px solid red;
+    color: red;
+}
+.access__admin.input__mode{
+    color: red;
+    animation: engranaje 4s infinite alternate;
+}
+@keyframes engranaje{
+    to{
+        transform: rotate(360deg);
+    }
+}
+.title{
+    font-size: 1.5em;
+    color: white;
+    text-align: center;
+    padding: .3em;
+    background-color: rgba(0, 0, 0, 0.253);
+}
+.bustible_n3{
+     text-align: center;
+}
+.container__formularios__login{
+    height: 80%;
+    display: flex;
+    width: 100%;
+    gap: 1em;
+    justify-content: space-around;
+    margin: auto;
+    transition: all .5s;
+}
+/*formulario ingreso usuario*/
+
+.ilustracion__welcome {
+    width: 80%;
+    min-width: 200px;
+}
+
+/*configuracion general de formularios*/
+
+.formulario__registro__usuario,
+.formulario__ingreso__usuario,
+.formulario__ingreso__admin{
+    display: grid;
+    grid-template-columns: .7fr 1fr;
+    opacity: 0;
+    height: 50%;
+    width: 50%;
+    position: absolute;
+    pointer-events: none;
+    background: #00000040;
+    transition: all .5s;
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    border: 2px solid #850000;
+    align-items: center;
+    align-content: center;
+    padding: 1em;
+}
+.formulario__registro__usuario.input__mode,
+.formulario__ingreso__usuario.input__mode,
+.formulario__ingreso__admin.input__mode{
+    pointer-events: all;
+    opacity: 1;
+    transform: none;
+}
+.formulario__registro__nuevo__usuario,
+.formulario__datos__ingreso__usuario,
+.formulario__datos__ingreso__admin{
+    display: flex;
+    width: 90%;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 1em;
+}
+label{
+    display: block;
+    min-width: 170px;
+    color: white;
+}
+input {
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    height: 20px;
+    padding: 5px;
+    background: #ffffff55;
+    border-bottom: 1px solid red;
+    width: 100%;
+}
+.button__restaurar__contraseña{
+    color: white;
+    background: none;
+}
+.button__restaurar__contraseña:hover {
+    color: var(--color-dorado);
+
+}
+.button__formularios__ingreso{
+    font-size: 1.1em;
+    border-radius: 5px;
+    background: #ff000090;
+    color: white;
+    padding: .3em;
+    text-align: center;
+}
+.button__formularios__ingreso:hover {
+    color: white;
+    background: linear-gradient(#ffbb0091,#ffff0091);
+}
+/*formulario__registro__usuario*/
+
+.formulario__registro__usuario {
+    transform: translateX(-100%);
+}
+.formulario__registro__nuevo__usuario{
+    height: 100%;
+}
+/*formulario__ingreso__usuario*/
+
+.formulario__ingreso__usuario{
+    transform: translateX(100%);
+ }
+.formulario__datos__ingreso__usuario{
+    height: 100%;
+}
+/*formulario__ingreso__admin*/
+.formulario__ingreso__admin{
+    transform: rotateY(90deg) ;
+}
+.formulario__datos__ingreso__admin{
+    height: 80%;
+}
+
+.bienvenida{
+    width: auto;
+    margin: auto;
+    text-align: center;
+}
+
+@media screen and (max-width:850px) {
+    .formulario__registro__usuario,
+    .formulario__ingreso__usuario,
+    .formulario__ingreso__admin {
+        grid-template-columns: 1fr;
+        height: auto;
+        padding: 1.5rem;
+    }
+    .ilustracion__welcome {
+        width: 80%;
+        min-width: 200px;
+        margin: auto;
+    }
+}
+@media screen and (max-width:500px) {
+    .ilustracion__welcome {
+        width: 80%;
+        min-width: 130px;
+    }
+    .formulario__registro__usuario,
+    .formulario__ingreso__usuario,
+    .formulario__ingreso__admin {
+        grid-template-columns: 1fr;
+        height: auto;
+        padding: .5rem;
+    }
+    
+}

@@ -1,0 +1,92 @@
+{
+  "productos": [
+    {
+      "nombre": "Inuyasha Evil",
+      "categoria": "Funko",
+      "precio": "184.790",
+      "descripcion": "Inuyasha Evil Funko captura la transformación del personaje en un diseño detallado y emocionante. En esta versión, Inuyasha aparece con sus rasgos demoníacos más prominentes, como sus ojos rojos, colmillos afilados y un aire más amenazador.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_663889-MLM43643022066_102020-O.webp",
+      "id": "74dc8492-8bac-484f-9677-f5588248d05c"
+    },
+    {
+      "nombre": "Naruto Uzumaki Edicion Especial 1233",
+      "categoria": "Funko",
+      "precio": "132.000",
+      "descripcion": "El Funko Pop de Naruto Uzumaki Edición Especial número 1233 es una pieza imprescindible para los fanáticos del anime Naruto. Esta figura presenta a Naruto en su icónico modo Sabio de los Seis Caminos, una de sus formas más poderosas y emblemáticas. Con detalles meticulosos, el Funko muestra a Naruto con su característica túnica blanca con detalles negros y la insignia del Rikudou en la espalda, así como su banda ninja de la Aldea Oculta de la Hoja.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_955329-MLA53430456772_012023-F.webp",
+      "id": "71ds8492-8bac-484f-9677-f5588248d05c"
+    },
+    {
+      "nombre": "Tanjiro Kamado 874 Edicion Especial",
+      "categoria": "Funko",
+      "precio": "94.716",
+      "descripcion": "El Funko Pop de Tanjiro Kamado captura a la perfección la esencia del protagonista de Demon Slayer: Kimetsu no Yaiba. Este adorable y detallado vinilo muestra a Tanjiro en su característico atuendo cazador de demonios, con su haori a cuadros verdes y negros, su espada Nichirin a su lado y su distintivo pendiente hanafuda. La expresión en su rostro refleja su determinación y compasión, mientras que su cicatriz en la frente y su cabello oscuro, cuidadosamente esculpido, añaden un toque de autenticidad coleccionable y encantadora.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_972209-MLA53158822881_012023-F.webp",
+      "id": "72dx8492-8bac-484f-9677-f5588248d05c"
+    },
+    {
+      "nombre": "PS5",
+      "categoria": "Juegos",
+      "precio": "2.196.684",
+      "descripcion": "La PlayStation 5 (PS5) es la consola de videojuegos de nueva generación desarrollada por Sony Interactive Entertainment. Lanzada en noviembre de 2020, la PS5 se destaca por su potente hardware y capacidades avanzadas, diseñadas para ofrecer una experiencia de juego inmersiva y de alta calidad. Está equipada con una CPU AMD Ryzen de tercera generación, una GPU basada en la arquitectura RDNA 2 de AMD, y un SSD ultrarrápido que permite tiempos de carga casi instantáneos y un rendimiento general fluido.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_955000-MLU75239551715_032024-F.webp",
+      "id": "4e41c540-c23c-45c2-b6c4-260cf59a83h6"
+    },
+    {
+      "nombre": "Xbox Series X",
+      "categoria": "Juegos",
+      "precio": "2.036.515",
+      "descripcion": "La Xbox Series X es la consola de nueva generación más potente de Microsoft, lanzada en noviembre de 2020. Equipada con una GPU de 12 teraflops y una CPU personalizada basada en la arquitectura Zen 2 de AMD, ofrece un rendimiento excepcional con soporte para juegos en resolución 4K a hasta 120 fps. Su unidad de almacenamiento SSD de 1 TB permite tiempos de carga extremadamente rápidos y una experiencia de juego fluida. Además, la consola incluye características avanzadas como el trazado de rayos en tiempo real y la arquitectura Xbox Velocity, que optimiza la velocidad y el rendimiento general del sistema. La Xbox Series X también es retrocompatible con miles de juegos de generaciones anteriores y se integra con el servicio Xbox Game Pass, proporcionando acceso a una vasta biblioteca de juegos.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_942133-MLA74651936102_022024-F.webp",
+      "id": "c3d6aef0-008c-4b2b-8ae0-7e7be21d1897"
+    },
+    {
+      "nombre": "Robin, Hijo De Batman No. 1",
+      "categoria": "Comics",
+      "precio": "79.000",
+      "descripcion": "Robin, Hijo de Batman No 1 es el inicio de una serie de cómics centrada en Damian Wayne, el hijo de Batman y Talia al Ghul. En esta historia, Damian asume plenamente su identidad como Robin y se embarca en una misión para redimir su oscuro pasado. Decidido a corregir los errores que cometió durante su formación en la Liga de Asesinos, Damian viaja por el mundo para deshacer el mal que causó y buscar su propio camino como héroe. Con un enfoque en su desarrollo personal y su lucha interna entre la herencia de su madre y el legado de su padre, este cómic explora la complejidad del joven héroe y su crecimiento en el universo de Batman.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_949883-MCO76178850644_052024-O.webp",
+      "id": "a12fb084-e841-45b6-814e-8f95443cd271"
+    },
+    {
+      "nombre": "Superman:contra el mundo",
+      "categoria": "Comics",
+      "precio": "95.000",
+      "descripcion": "Superman Contra el Mundo es una emocionante historia de cómics en la que el Hombre de Acero se enfrenta a una amenaza global que pone en peligro la seguridad de toda la humanidad. En esta narrativa, Superman no solo debe luchar contra poderosos enemigos y fuerzas oscuras que intentan dominar el mundo, sino también enfrentar desafíos personales y dilemas morales que cuestionan sus principios y su capacidad para proteger a la Tierra. Con impresionantes ilustraciones y una trama llena de acción, intriga y heroísmo, este cómic captura la esencia de Superman como el defensor definitivo de la justicia y el bien.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_863794-MCO75594794679_042024-O.webp",
+      "id": "a12fb084-e841-45b6-814e-8f95443cd272"
+    },
+    {
+      "nombre": "Audífonos inalámbricos Sleve EVO black",
+      "categoria": "Accesorios",
+      "precio": "144.900",
+      "descripcion": "Los audífonos inalámbricos Sleve EVO Black son una opción elegante y moderna para disfrutar de un sonido de alta calidad sin cables. Con un diseño ergonómico y ligero, estos audífonos ofrecen comodidad durante todo el día. Cuentan con tecnología avanzada de cancelación de ruido activa, proporcionando una experiencia auditiva inmersiva y clara. Su batería de larga duración permite horas de reproducción continua, y la conectividad Bluetooth asegura una conexión estable y rápida con dispositivos compatibles. Los controles táctiles intuitivos facilitan el manejo de la música y las llamadas, haciendo de los Sleve EVO Black una excelente elección para el uso diario.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_832268-MLU72931771705_112023-F.webp",
+      "id": "871c4564-5596-4eba-ab18-19d335bc88ea"
+    },
+    {
+      "nombre": "Mochila Pikachu",
+      "categoria": "Accesorios",
+      "precio": "100.456",
+      "descripcion": "La mochila de Pikachu es un accesorio adorable y funcional que encantará a los aficionados de Pokémon de todas las edades. Con un diseño inspirado en el icónico Pokémon amarillo, esta mochila presenta la forma y los colores característicos de Pikachu, incluyendo sus orejas puntiagudas y mejillas rojas. Fabricada con materiales de alta calidad, ofrece durabilidad y resistencia para el uso diario. Su tamaño compacto la hace perfecta para llevar tus pertenencias esenciales, ya sea a la escuela, al trabajo o en tus aventuras cotidianas. Con compartimentos convenientes y correas ajustables, la mochila de Pikachu combina estilo y funcionalidad para satisfacer las necesidades de cualquier entrenador Pokémon en movimiento.",
+      "imgUrl": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F140%2FMARKETPLACE%20INTERNACIONAL%2F51OZpwtF7xL_194756731463_50.jpeg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=385f47049425e2df67a1bbee7fd7fc5d",
+      "id": "28e35512-3523-4397-beb5-f2fbf5c60e65"
+    },
+    {
+      "nombre": "Lego Minecraft Llavero Steve",
+      "categoria": "Gadgets",
+      "precio": "59.900",
+      "descripcion": "El llavero Steve de LEGO Minecraft (854243) es un encantador accesorio que combina la popularidad de los juegos Minecraft con la versatilidad y la diversión de los bloques LEGO. Este llavero presenta una figura miniatura de Steve, uno de los personajes principales del juego, construido con bloques LEGO. Con detalles precisos y colores fieles al juego, es una representación auténtica y encantadora del personaje. Además de servir como un accesorio práctico para tus llaves, mochilas o bolsos, también es una excelente adición a tu colección de LEGO o Minecraft. Este llavero es perfecto para los fanáticos de Minecraft de todas las edades que desean llevar un poco del mundo Minecraft a todas partes con ellos.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_989242-MLU74111599463_012024-F.webp",
+      "id": "fa1df181-0060-4d5e-9447-e970a8ce43ca"
+    },
+    {
+      "nombre": "Lego Piglin Minecraft Llavero",
+      "categoria": "Gadgets",
+      "precio": "79.900",
+      "descripcion": "El llavero Piglin de LEGO Minecraft (854244) es una adorable pieza que captura la esencia del juego Minecraft de una manera divertida y portátil. Este llavero presenta una figura miniatura del Piglin, una de las criaturas del juego, construida con bloques LEGO. Con detalles auténticos y colores vibrantes que reflejan fielmente el diseño del Piglin en Minecraft, este llavero es una adición encantadora a cualquier colección de llaveros o de LEGO. Además de ser un accesorio práctico para tus llaves, mochilas o bolsos, también es un gran regalo para cualquier fanático de Minecraft que aprecie los elementos de construcción y creatividad de LEGO.",
+      "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_834812-MCO71717264644_092023-O.webp",
+      "id": "fa1df181-0060-4d5e-9447-e970a8ce33c7"
+    }
+  ]
+}

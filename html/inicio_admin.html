@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Gabriel Cabrales">
+    <title>AluraGeek-Admin</title>
+    <link rel="shortcut icon" type="image/x-icon" href="../imagenes/logoalurageek.svg">
+    <link rel="stylesheet" href="../css/reset.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/styleInicioAdmin.css">
+    <link rel="stylesheet" href="../css/styleProductos.css">
+    <script src="https://kit.fontawesome.com/5829234c9c.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container__header">
+            <a href="../index.html">
+                <div class="logo">
+                    <img src="../imagenes/logoalurageek.svg" alt="">
+                </div>
+            </a>
+            <div class="logo__name">Alura<span class="logo__name__white">Geek</span></div>
+            <div class="logo__name logo__name__responsive">A<span class="logo__name__white">G</span></div>
+            <input data-buscador class="buscador" type="text" placeholder="Buscar">
+            <span class="nombre_usuario">@Admin</span>
+            <div class="buttons__header">
+                <a href="../index.html">
+                    <button id="closeSession" class="button__header__login">
+                        Salir
+                    </button>
+                </a>
+                <button alt="activar modo oscuro" class="button__darkmode active" id="button__darkmode">
+                    <div class="button__darkmode__night"></div>
+                    <div class="button__darkmode__day"></div>
+                </button>
+            </div>
+        </div>
+        <section id="container__navegacion" class="container__navegacion ">
+            <button id="button__navegacion" class="button__navegacion">
+                <i class="fa-solid fa-angles-right"></i>
+            </button>
+            <nav class="barra__navegacion">
+                <ul class="lista__navegacion">
+                    <li class="navegacion__items">
+                        <a class="navegacion__items__link select" href="#inicio">
+                            <i class="fa-solid fa-house navegacion__items__icon"></i>
+                            <span class="navegacion__items__text">Inicio</span>
+                        </a>
+                    </li>
+                    <li class="navegacion__items">
+                        <a class="navegacion__items__link" href="#productos">
+                            <i class="fa-solid fa-bag-shopping navegacion__items__icon"></i>
+                            <span class="navegacion__items__text">Productos</span>
+                        </a>
+                    </li>
+                    <li class="navegacion__items">
+                        <a class="navegacion__items__link" href="#about">
+                            <i class="fa-solid fa-users navegacion__items__icon"></i>
+                            <span class="navegacion__items__text">Sobre Nosotros</span>
+                        </a>
+                    </li>
+                    <li class="navegacion__items">
+                        <a id="button__contactar" onclick="irContacto()"  class="navegacion__items__link" href="#contacto">
+                            <i class="fa-solid fa-comments navegacion__items__icon"></i>
+                            <span id="button__contactar" class="navegacion__items__text">Contáctenos</span>
+                        </a>
+                    </li>
+                    <li class="navegacion__items">
+                        <a class="navegacion__items__link" href="#settings">
+                            <i class="fa-solid fa-gears navegacion__items__icon"></i>
+                            <span class="navegacion__items__text">Settings</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </section>
+    </header>
+    <main>
+        <section class="container">
+            <div id="inicio">
+                <div class="buttons__controladores">
+                    <button data-buttonShowUsers  class="button__controlador"> Lista de Usuarios </button> 
+                    <button data-buttonModifyProducts class="button__controlador"> Añadir Producto </button>  
+                </div>
+            </div>
+            <div id="productos">
+                <div class="mostrar__producto" data-mostrarProducto>
+                
+                </div>
+            </div>
+            <div id="contacto" class="container__contacto">
+                <div class="container__contacto__opacity">
+                    <form id="formularioContacto" class="container__form__contacto" action="">
+                        <button id="cerrar__contacto" class="cerrar__contacto">
+                            <i class="fa-solid fa-xmark"></i>Cerrar
+                        </button>
+                        <p class="messaje__contac">
+                            Esta opción solo esta disponible para los usuarios y no los administradores.
+                        </p>
+                    </form>
+                </div>
+            </div>  
+        </section>
+    </main>
+    <footer id="footer" class="footer">
+        <p class="footer__text">
+            Siguenos en:
+        </p>
+        <p class="footer__icons">
+            <i class="fa-brands fa-facebook footer__text__icon"></i>
+            <i class="fa-brands fa-instagram footer__text__icon"></i>
+        </p>
+        <p class="footer__text__desarrollador">
+            Desarrollado por: <a class="footer__text__desarrollador" href="https://gabrielcabrales.github.io/challengeportafolio-main/"
+            target="_blank">@gabrielcabralesperez</a>
+        </p>
+    </footer>   
+    <script src="../js/script.js"></script>
+    <script src="../js/contacto.js"></script>
+    <script src="../controladores/buscador.js"></script>
+    <script src="../js/closeSession.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script type="module" src="../controladores/controladoresAdmin.js"></script>
+</body>
+</html>

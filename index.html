@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Gabriel Cabrales">
+    <title>AluraGeek</title>
+    <link rel="shortcut icon" type="image/x-icon" href="imagenes/logoalurageek.svg">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/styleInicio.css">
+    <link rel="stylesheet" href="css/styleProductos.css">
+    <script src="https://kit.fontawesome.com/5829234c9c.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Marko+One&family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container__header">
+            <a href="index.html">
+                <div class="logo">
+                    <img src="imagenes/logoalurageek.svg" alt="">
+                </div>
+            </a>
+            <div class="logo__name">
+                Alura<span class="logo__name__white">Geek</span>
+            </div>
+            <div class="logo__name logo__name__responsive">
+                A<span class="logo__name__white">G</span>
+            </div>
+            <input data-buscador class="buscador" type="text" placeholder="Buscar">  
+            <div class="buttons__header">
+                <a href="html/login.html">
+                    <button id="goBack" class="button__header__login">
+                    Login
+                    </button>
+                </a>
+                <button alt="activar modo oscuro" class="button__darkmode active" id="button__darkmode">
+                    <div class="button__darkmode__night"></div>
+                    <div class="button__darkmode__day"></div>
+                </button>
+            </div>
+        </div>
+        <section id="container__navegacion" class="container__navegacion ">
+            <button id="button__navegacion" class="button__navegacion">
+                <i class="fa-solid fa-angles-right"></i>
+            </button>
+            <nav class="barra__navegacion">
+                <ul class="lista__navegacion">
+                    <li class="navegacion__items">
+                        <a class="navegacion__items__link select" href="#inicio">
+                            <i class="fa-solid fa-house navegacion__items__icon"></i>
+                            <span class="navegacion__items__text">Inicio</span>
+                        </a>
+                    </li>
+                    <li class="navegacion__items">
+                        <a class="navegacion__items__link" href="#productos">
+                            <i class="fa-solid fa-bag-shopping navegacion__items__icon"></i>
+                            <span class="navegacion__items__text">Productos</span>
+                        </a>
+                    </li>
+                    <li class="navegacion__items">
+                        <a class="navegacion__items__link" href="#about">
+                            <i class="fa-solid fa-users navegacion__items__icon"></i>
+                            <span class="navegacion__items__text">Sobre Nosotros</span>
+                        </a>
+                    </li>
+                    <li class="navegacion__items">
+                        <a id="button__contactar" onclick="irContacto()" class="navegacion__items__link" href="#contacto">
+                        <i class="fa-solid fa-comments navegacion__items__icon"></i>
+                        <span id="button__contactar" class="navegacion__items__text">Contáctenos</span>
+                        </a>
+                    </li>
+                    <li class="navegacion__items">
+                        <a class="navegacion__items__link" href="html/login.html">
+                            <i class="fa-solid fa-gears navegacion__items__icon"></i>
+                            <span class="navegacion__items__text">Settings</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </section>
+    </header>
+    <main>
+        <section class="container" >
+            <div id="inicio" class="container__inicio">
+                 <section id="banner" class="banner__ofertas">
+                    <div class="banner__ofertas__text">
+                        <p class="banner__ofertas__text__title">
+                            Marzo Promocional
+                        </p>
+                        <p class="banner__ofertas__text__p">
+                            El segundo producto con un 15% de descuento
+                        </p>
+                        <button onclick="irContacto()" class="banner__ofertas__button">
+                            Realizar Pedidos
+                        </button>
+                    </div>
+                 </section>
+            </div>
+            <div id="productos" class="container__productos">
+                <div class="mostrar__producto" data-mostrarProducto>
+                </div>
+            </div>
+            <div id="about" class="container__about">
+                <h2 class="subtitle">Sobre Nosotros</h2>
+                <div class="about__img">
+                    <img src="imagenes/about.svg" alt="">
+                </div>
+                    <p class="text">
+                        AluraGeek es tu tienda en línea definitiva para todos los productos relacionados con la tecnología, el entretenimiento geek y la cultura pop. Nuestra plataforma ofrece una amplia gama de productos cuidadosamente seleccionados, desde dispositivos electrónicos de última generación hasta merchandising de tus películas y series favoritas.
+                    </p>
+                    <p class="text">
+                        En AluraGeek, creemos en ofrecer a nuestros clientes una experiencia de compra excepcional. Navegar por nuestro sitio es como adentrarse en un universo geek, donde encontrarás todo lo que necesitas para alimentar tu pasión por la tecnología y el entretenimiento. Desde laptops y consolas de videojuegos hasta figuras coleccionables y ropa temática, tenemos algo para cada fanático.
+                    </p>
+                    <p class="text">
+                        Lo que distingue a AluraGeek es nuestra dedicación a la calidad y autenticidad. Trabajamos con los mejores proveedores y marcas para garantizar que cada producto que vendemos cumpla con los más altos estándares. Además, nuestro equipo está comprometido a brindar un servicio al cliente excepcional, asegurándonos de que tu experiencia de compra sea siempre satisfactoria y sin complicaciones.
+                    </p>
+                    <p class="text">
+                        Ofrecemos envíos rápidos y seguros a nivel nacional, así como un sistema de devoluciones sin complicaciones para garantizar que cada compra sea sin riesgos. Además, nuestro equipo de atención al cliente está disponible para responder preguntas y resolver cualquier problema que puedas tener.
+                    </p>
+            </div>
+            <div id="contacto" class="container__contacto">
+                <div class="container__contacto__opacity">
+                    <form id="formularioContacto" class="container__form__contacto" action="">
+                        <button id="cerrar__contacto" class="cerrar__contacto">
+                            <i class="fa-solid fa-xmark"></i>Cerrar
+                        </button>
+                        <label class="form__items" for="name">Nombre</label>
+                        <input class="form__items input" type="text" name="name">
+                        <label class="form__items" for="email">Email</label>
+                        <input class="form__items input" name="email" type="text" class="email">
+                        <textarea class="form__items textarea" placeholder="Mensaje" name="mensaje" rows="5"></textarea>
+                        <button type="submit" class="form__items button">
+                            Send
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer id="footer" class="footer">
+        <p class="footer__text">
+            Siguenos en:
+        </p>
+        <p class="footer__icons">
+            <i class="fa-brands fa-facebook footer__text__icon"></i>
+            <i class="fa-brands fa-instagram footer__text__icon"></i>
+        </p>
+        <p class="footer__text__desarrollador">
+             Desarrollado por: <a class="footer__text__desarrollador" href="https://gabrielcabrales.github.io/challengeportafolio-main/"
+            target="_blank">@gabrielcabralesperez</a>
+            <button id="toggle-button">Mostrar/Ocultar Radio</button>
+        </p>
+    </footer>
+    <div class="radio-container" id="radio-container">
+        <audio controls>
+            <source src="https://24493.live.streamtheworld.com/OLP_BOGOTA_SC" type="audio/mpeg">
+            Tu navegador no soporta el elemento de audio.
+        </audio>
+    </div>
+    <script>
+        document.getElementById("toggle-button").addEventListener("click", function() {
+            var radioContainer = document.getElementById("radio-container");
+            if (radioContainer.style.display === "none" || radioContainer.style.display === "") {
+                radioContainer.style.display = "block";
+            } else {
+                radioContainer.style.display = "none";
+            }
+        });
+    </script>
+    <script src="js/script.js" defer></script>
+    <script src="js/contacto.js" defer></script>
+    <script src="controladores/buscador.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script type="module" src="controladores/controladores.js"></script>
+</body>
+</html>

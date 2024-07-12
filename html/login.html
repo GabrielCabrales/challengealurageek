@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Gabriel Cabrales">
+    <title>AluraGeek - Login</title>
+    <link rel="shortcut icon" type="image/x-icon" href="../imagenes/logoalurageek.svg">
+    <link rel="stylesheet" href="../css/reset.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/styleLogin.css">
+    <script src="https://kit.fontawesome.com/5829234c9c.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container__header">
+            <a href="../index.html">
+                <div class="logo">
+                    <img src="../imagenes/logoalurageek.svg" alt="">
+                </div>
+            </a>
+            <div class="logo__name">Alura<span class="logo__name__white">Geek</span></div>
+            <div class="logo__name logo__name__responsive">A<span class="logo__name__white">G</span></div>
+
+            <input class="buscador" type="text" placeholder="Buscar">
+            <div class="buttons__header">
+                <button id="goBack" class="button__header__login">
+                    Back
+                </button>
+                <button alt="activar modo oscuro" class="button__darkmode active" id="button__darkmode">
+                    <div class="button__darkmode__night"></div>
+                    <div class="button__darkmode__day"></div>
+                </button>
+            </div>
+        </div>
+        <section id="container__navegacion" class="container__navegacion ">
+            <button id="button__navegacion" class="button__navegacion">
+                <i class="fa-solid fa-angles-right"></i>
+            </button>
+            <nav class="barra__navegacion">
+                <ul class="lista__navegacion">
+                    <li class="navegacion__items">
+                        <a class="navegacion__items__link" href="../index.html">
+                            <i class="fa-solid fa-house navegacion__items__icon"></i>
+                            <span class="navegacion__items__text">Inicio</span>
+                        </a>
+                    </li>
+                    <li class="navegacion__items">
+                        <a class="navegacion__items__link" href="../index.html#productos">
+                            <i class="fa-solid fa-bag-shopping navegacion__items__icon"></i>
+                            <span class="navegacion__items__text">Productos</span>
+                        </a>
+                    </li>
+                    <li class="navegacion__items">
+                        <a class="navegacion__items__link" href="../index.html#about">
+                            <i class="fa-solid fa-users navegacion__items__icon"></i>
+                            <span class="navegacion__items__text">Sobre<br>Nosotros</span>
+                        </a>
+                    </li>
+                    <li class="navegacion__items">
+                        <a id="button__contactar"
+                        onclick="irContacto()" class="navegacion__items__link" href="#contacto">
+                            <i class="fa-solid fa-comments navegacion__items__icon"></i>
+                            <span id="button__contactar" class="navegacion__items__text">Contáctenos</span>
+                        </a>
+                    </li>
+                    <li class="navegacion__items">
+                        <a class="navegacion__items__link select" href="#login">
+                            <i class="fa-solid fa-gears navegacion__items__icon"></i>
+                            <span class="navegacion__items__text">Settings</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </section>
+    </header>
+    <main>
+        <section class="container">
+            <div id="login" class="container__login">
+                <p class="title">Iniciar Sesión</p>
+                <div class="buttons__access">
+                    <button id="accessRegistro" class="button__access">Registrarse</button>
+                    <button id="accessIngreso" class="button__access input__mode">Ingresar</button>
+                    <button id="accessAdmin" class="access__admin">
+                        <i class="fa-solid fa-gear"></i>
+                    </button>
+                </div>
+                <div class="container__formularios__login">
+                    <div id="formularioAdmin" class="formulario__ingreso__admin">
+                        <div class="bienvenida">
+                            <img class="ilustracion__welcome" src="../imagenes/admin.svg" alt="">
+                        </div>
+                        <form data-formularioIngresoAdmin class="formulario__datos__ingreso__admin">
+                            <p class="bustible_n3">Ingresar en modo administrador</p>
+                            
+                            <p><label for="usuario">
+                                Usuario
+                            </label>
+                            <input data-inputUserAdmin name="usuario" type="text">
+                            </p>
+                            <p>
+                            <label for="">
+                                    Contraseña
+                                </label>
+                            <input data-inputPassAdmin type="password">
+                            </p>
+                            <button data-buttonAccessAdmin class="button__formularios__ingreso" >   Ingresar 
+                            </button>
+                        </form>
+                    </div>
+                    <div id="formularioIngreso" class="formulario__ingreso__usuario input__mode">
+                        <div class="bienvenida">
+                            <img class="ilustracion__welcome" src="../imagenes/welcome.svg" alt="">
+                        </div>
+                        <form data-formularioIngresoUsuario class="formulario__datos__ingreso__usuario">
+                            <p>
+                                <label for="usuario">
+                                    Usuario
+                                </label>
+                                <input name="usuario" type="text">
+                            </p>
+                            <p>
+                                <label for="">
+                                    Contraseña
+                                </label>
+                                <input type="text">
+                            </p>
+                            <button data-buttonChangePassword class="button__restaurar__contraseña">
+                                Olvide Contraseña
+                            </button>
+                            <button data-buttonAccessUser   class="button__formularios__ingreso">
+                                Ingresar
+                            </button>
+                        </form>
+                    </div>
+                    <div id="formularioRegistro" class="formulario__registro__usuario">
+                        <div class="bienvenida">
+                            <img class="ilustracion__welcome" src="../imagenes/registro.svg" alt="">
+                        </div>
+                        <form data-formularioRegistroUsuario class="formulario__registro__nuevo__usuario">
+                            <p>    
+                                <label  for="name">
+                                    Nombre
+                                </label>
+                                <input data-nombreNuevoUsuario name="name" type="text">
+                             </p>  
+                            <p> 
+                                <label for="nuevo__usuario">
+                                    Usuario
+                                </label>
+                                <input data-usuarioNuevoUsuario name="nuevo__usuario" type="text">
+                            </p>    
+                            <p>
+                                <label for="correo__registro">
+                                    Correo
+                                </label>
+                                <input data-mailNuevoUsuario name="correo__registro" type="email">
+                            </p>
+                            <p>
+                                <label for="password">
+                                    Contraseña
+                                </label>
+                                <input data-passwordNuevoUsuario type="password" name="password">
+                            </p>
+                            <button data-buttonRegisterUser class="button__formularios__ingreso">
+                                Registrar
+                            </button>
+                        </form>
+                    </div> 
+                </div>
+            </div>
+            <div id="contacto" class="container__contacto">
+                <form id="formularioContacto" class="container__form__contacto" action="">
+                    <button id="cerrar__contacto" class="cerrar__contacto">
+                        <i class="fa-solid fa-xmark"></i>Cerrar
+                    </button>
+                    <label class="form__items" for="name">Nombre</label>
+                    <input class="form__items input" type="text" name="name">
+                    <label class="form__items" for="email">Email</label>
+                    <input class="form__items input" name="email" type="text" class="email">
+                    <textarea class="form__items textarea" placeholder="Mensaje" name="mensaje" rows="5"></textarea>
+                    <button type="submit" class="form__items button">
+                        Send
+                    </button>
+                </form>
+            </div>  
+        </section>
+    </main>
+    <footer id="footer" class="footer">
+        <p class="footer__text">
+            Siguenos en:
+        </p>
+        <p class="footer__icons">
+            <i class="fa-brands fa-facebook footer__text__icon"></i>
+            <i class="fa-brands fa-instagram footer__text__icon"></i>
+        </p>
+        <p class="footer__text__desarrollador">
+            Desarrollado por: <a class="footer__text__desarrollador" href="https://gabrielcabrales.github.io/challengeportafolio-main/"
+            target="_blank">@gabrielcabralesperez</a>
+        </p>
+    </footer>
+    <script src="../js/script.js" defer></script>
+    <script src="../js/backpag.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script  type="module" src="../js/login.js" defer></script>
+    <script src="../js/contacto.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Gabriel Cabrales">
+    <title>AluraGeek-Producto</title>
+    <link rel="shortcut icon" type="image/x-icon" href="../imagenes/logoalurageek.svg">
+    <link rel="stylesheet" href="../css/reset.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/styleDetalleProducto.css">
+    <script src="https://kit.fontawesome.com/5829234c9c.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap"
+        rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container__header">
+            <a href="../index.html">
+                <div class="logo">
+                    <img src="../imagenes/logoalurageek.svg" alt="">
+                </div>
+            </a>
+            <div class="logo__name">Alura<span class="logo__name__white">Geek</span></div>
+            <div class="logo__name logo__name__responsive">A<span class="logo__name__white">G</span></div>
+            <input class="buscador" type="text" placeholder="Buscar">
+            <div class="buttons__header">
+                <button id="goBack" class="button__header__login">
+                    Back
+                </button>
+                <button alt="activar modo oscuro" class="button__darkmode active" id="button__darkmode">
+                    <div class="button__darkmode__night"></div>
+                    <div class="button__darkmode__day"></div>
+                </button>
+            </div>
+        </div>
+        <section id="container__navegacion" class="container__navegacion ">
+            <button id="button__navegacion" class="button__navegacion">
+                <i class="fa-solid fa-angles-right"></i>
+            </button>
+            <nav class="barra__navegacion">
+                <ul class="lista__navegacion">
+                    <li class="navegacion__items">
+                        <a class="navegacion__items__link" href="#inicio">
+                            <i class="fa-solid fa-house navegacion__items__icon"></i>
+                            <span class="navegacion__items__text">Inicio</span>
+                        </a>
+                    </li>
+                    <li class="navegacion__items">
+                        <a class="navegacion__items__link select" href="#productos">
+                            <i class="fa-solid fa-bag-shopping navegacion__items__icon"></i>
+                            <span class="navegacion__items__text">Productos</span>
+                        </a>
+                    </li>
+                    <li class="navegacion__items">
+                        <a class="navegacion__items__link" href="#about">
+                            <i class="fa-solid fa-users navegacion__items__icon"></i>
+                            <span class="navegacion__items__text">Sobre Nosotros</span>
+                        </a>
+                    </li>
+                    <li class="navegacion__items">
+                        <a id="button__contactar"  onclick="irContacto()" class="navegacion__items__link" href="#contacto">
+                            <i class="fa-solid fa-comments navegacion__items__icon"></i>
+                            <span id="button__contactar" class="navegacion__items__text">Contáctenos</span>
+                        </a>
+                    </li>
+                    <li class="navegacion__items">
+                        <a class="navegacion__items__link" href="/html/login.html">
+                            <i class="fa-solid fa-gears navegacion__items__icon"></i>
+                            <span class="navegacion__items__text">Settings</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </section>
+    </header>
+    <main>
+        <section class="container">
+            <div data-detalleProducto id="productos">
+            </div>
+            <div id="contacto" class="container__contacto">
+                <form id="formularioContacto" class="container__form__contacto" action="">
+                    <button id="cerrar__contacto" class="cerrar__contacto">
+                        <i class="fa-solid fa-xmark"></i>Cerrar
+                    </button>
+                    <label class="form__items" for="name">Nombre</label>
+                    <input class="form__items input" type="text" name="name">
+                    <label class="form__items" for="email">Email</label>
+                    <input class="form__items input" name="email" type="text" class="email">
+                    <textarea class="form__items textarea" placeholder="Mensaje" name="mensaje" rows="5"></textarea>
+                    <button type="submit" class="form__items button">
+                        Send
+                    </button>
+                </form>
+            </div>  
+        </section>
+    </main>
+    <footer id="footer" class="footer">
+        <p class="footer__text">
+            Siguenos en:
+        </p>
+        <p class="footer__icons">
+            <i class="fa-brands fa-facebook footer__text__icon"></i>
+            <i class="fa-brands fa-instagram footer__text__icon"></i>
+        </p>
+        <p class="footer__text__desarrollador">
+            Desarrollado por: <a class="footer__text__desarrollador" href="https://gabrielcabrales.github.io/challengeportafolio-main/"
+            target="_blank">@gabrielcabralesperez</a>
+        </p>
+    </footer>
+    <script src="/js/script.js"></script>
+    <script src="../js/contacto.js" defer></script>
+    <script src="../js/backpag.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script type="module" src="../controladores/detallesProducto.js"></script>
+</body>
+</html>
