@@ -3,12 +3,11 @@
 
 ¡Bienvenido al Challenge AluraGeek!
 
-Este README es una guía para el reto que he completado como parte del Challenge AluraGeek. El reto se enfocó en [breve descripción del reto o proyecto].
+Este README es una guía para el reto que he completado como parte del Challenge AluraGeek.
 
 ## Descripción del Reto 🌟
 
-El reto consistió en desarrollar [descripción detallada del reto o proyecto, incluyendo tecnologías utilizadas, objetivos y alcance].
-
+El reto de Alura Geek es una iniciativa diseñada para desafiar a los desarrolladores a crear una aplicación o sitio web relacionado con el mundo de los videojuegos y la cultura geek. Este reto suele involucrar el uso de tecnologías web modernas y tiene como objetivo fomentar el aprendizaje y la creatividad en la programación. Los participantes deben construir una plataforma que cumpla con ciertos requisitos funcionales y de diseño, proporcionando una experiencia interactiva y atractiva para los usuarios. El proyecto puede incluir características como catálogos de productos, descripciones detalladas, sistemas de búsqueda y filtrado, así como opciones de compra o interacción social.
 ## Objetivos 🎯
 
 Los objetivos principales de este reto fueron:
